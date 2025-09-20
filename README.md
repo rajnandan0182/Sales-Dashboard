@@ -48,9 +48,9 @@ Sales by Region (Pie/Donut Chart): Shows contribution of West (32.22%), East (28
 
 Sales by Ship Mode: Highlights customer preferences, with Standard Class dominating (60.51%).
 
-Top 5 Sub-Categories: Identifies best-selling categories like Phones, Chairs, and Binders.
+Top 5 Sub-Categories: Identifies best-selling categories such as staple, easy-staple papers .
 
-Bottom 5 Sub-Categories: Flags underperforming categories such as Copiers, Machines, and Fasteners.
+Bottom 5 Sub-Categories: Flags underperforming categories such as xerox blank,rediform.
 
 Sales by State (Map/Bar): Visualizes geographic distribution of sales across the U.S., enabling location-specific insights.
 
