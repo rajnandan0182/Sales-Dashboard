@@ -63,4 +63,4 @@ Profitability Focus: Allows management to improve margins by reducing focus on l
 Regional Analysis: Supports decision-making for regional campaigns and inventory distribution.
 
 ### 6.	Screenshots / Demos
- ![Dashboard Preview]
+ ![Dashboard Preview](https://github.com/rajnandan0182/Sales-Dashboard/blob/main/Snapshot%20Of%20the%20Dashboard.png)
